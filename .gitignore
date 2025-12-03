@@ -30,3 +30,4 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+day*/cmd/input/input.txt
